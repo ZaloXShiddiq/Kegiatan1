@@ -1,3 +1,5 @@
+package Kegiatan1Modul1;
+
 import java.util.Scanner;
 
 public class LibrarySystem {
